@@ -1,4 +1,10 @@
 package com.xiuchen.org.xiuchen_subbook;
+/*
+    This is the main activity. Most of the funcitonality of the program is done in this class. The class allows user to edit and delete
+    subscription(this is done in item_record_2). Also, it lets user calculate the total monthly charge.(I misunderstood the requirement,
+    this function would not calculate the monthly spending, instead it would calculate all the subscription regardless their dates.)
+    Another bug of this program is it allows user leave name blank.
+ */
 
 import android.content.ContentValues;
 import android.content.Intent;
