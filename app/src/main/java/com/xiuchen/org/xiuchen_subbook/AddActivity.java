@@ -1,4 +1,9 @@
 package com.xiuchen.org.xiuchen_subbook;
+/*
+    This class is the Adding mode of the program. It calls setfunction from record class to set and save data for each of the four category
+    This also sets the date. It distinguishes edit mode and add mode by setting 2 different numbers.
+ */
+
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
