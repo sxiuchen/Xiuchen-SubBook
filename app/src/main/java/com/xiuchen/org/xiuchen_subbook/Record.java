@@ -1,5 +1,13 @@
 package com.xiuchen.org.xiuchen_subbook;
 
+/*
+This class designs subscription, this deals with adding mode, it provides data for AddActivity. The puporse of this design is to return data for
+each subscription. The functions used in this class are get and set functions, which sets value or text for each entry and let other class
+calls set and get function from outside of the class.
+
+ */
+
+
 import java.io.Serializable;
 import java.util.Date;
 
