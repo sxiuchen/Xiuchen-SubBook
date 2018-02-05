@@ -1,5 +1,10 @@
 package com.xiuchen.org.xiuchen_subbook;
 
+/*
+    This class should not be used. But I could not think of another way to do this. This class helps MainActivity to edit subscription and
+    delete subscription and save the new record.
+ */
+
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
